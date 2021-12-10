@@ -1,0 +1,7 @@
+son-bagisci:
+  web-script: NULL
+  # SCRIPT LIST
+  #
+  # LEADEROS
+  renew-minute: 5
+  website-url: 'https://www.demo.com'
