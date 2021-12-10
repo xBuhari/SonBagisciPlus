@@ -1,0 +1,6 @@
+name: SonBagisciPlus
+version: 0.1
+author: xBuhari
+main: me.xBuhari.sbp.Main
+softdepend:
+  - PlaceHolderAPI
